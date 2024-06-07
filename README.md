@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm [Shahnaz] 👋
 
-<!--
-**shahnazamiraslanova/shahnazamiraslanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate front-end developer with a strong foundation in modern web technologies. I love creating beautiful and functional user interfaces and working on exciting projects. Here's a bit about me and what I do:
 
-Here are some ideas to get you started:
+## 🛠 Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-End Development
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **Tailwind CSS**
+- **Material UI**
+- **Ant Design**
+- **JavaScript**
+- **React**
+- **TypeScript**
+
+### Back-End Development
+- **Node.js**
+- **MongoDB**
+
+## 🌟 About Me
+
+I enjoy turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding or pushing pixels, you'll find me exploring the latest web development trends and best practices. I believe in continuous learning and always strive to improve my skills and keep up with the fast-paced world of web development.
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shahnazamiraslanova&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+
+- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/shahnaz-amiraslanova-4a1391294/))
+- Email: emiraslanovashahnaz@gmail.com
+
+Feel free to reach out if you want to collaborate on a project, or just want to connect!
+
+---
+
+⭐️ From [Your Name](https://github.com/shahnazamiraslanova)
